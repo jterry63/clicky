@@ -75,6 +75,7 @@ class App extends Component {
           topScore={this.state.topScore}
           rightWrong={this.state.rightWrong}
         />
+        
 
         <Title>
           Try to click on each Disney character without clicking the same one twice!
